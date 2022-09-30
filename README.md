@@ -20,4 +20,4 @@
 
 ## :camera: Screenshot
 
-![screenshot](./1png)
+![screenshot](./1.png)
