@@ -1,4 +1,4 @@
-# Street Style Landing Page ![responsive](https://img.shields.io/badge/-Responsive-orange)
+# Street Style Landing Page ![responsive](https://img.shields.io/badge/Responsive-orange)
 
 ![name](https://img.shields.io/badge/Shubham-Somvanshi-blue)
 
