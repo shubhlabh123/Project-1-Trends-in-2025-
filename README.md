@@ -7,7 +7,7 @@
 
 ![time](https://img.shields.io/badge/time--to--complete-10--hrs--approx.-yellowgreen)
 
-## :link: [See it live](https://trendstwenty.netlify.app/)
+## :link: [See it live](https://project-1-trends-in-2025-6cp8.vercel.app/)
 
 
 ## :clipboard: Learning Outcomes 
