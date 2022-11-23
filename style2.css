@@ -424,7 +424,7 @@
     margin-left: 104px;
   }
 }
-@media screen and (max-width: 562px) {
+@media screen and (max-width: 362px) {
   .navbar-container img {
     margin-left: -73px;
     margin-top: -13px;
@@ -466,8 +466,8 @@
     bottom: 20px;
   }
   .hero-container-right {
-    margin-left: 66px;
-    margin-top: -373px;
+    margin-left: 99px;
+    margin-top: -353px;
     position: absolute;
     top: 678px;
   }
