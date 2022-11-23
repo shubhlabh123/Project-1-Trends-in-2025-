@@ -267,6 +267,7 @@
   }
   .hero-heading {
     font-size: 20px;
+    margin-left:-78px;
   }
   .hero-container {
     display: grid;
